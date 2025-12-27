@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Generated reports
+*_quality_report.html
+
+# Real data files (keep only test data)
+Employee_rawdata.csv
+marathon_participant_data.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
